@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[755],{381:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/cal","page":1,"postsPerPage":15,"totalPages":1,"totalCount":1,"blogDescription":"nrsx blog","blogTitle":"nrsx blog"}')}}]);

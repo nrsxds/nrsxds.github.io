@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[162],{2024:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/linux\u8fd0\u7ef4","page":1,"postsPerPage":15,"totalPages":1,"totalCount":1,"blogDescription":"nrsx blog","blogTitle":"nrsx blog"}')}}]);

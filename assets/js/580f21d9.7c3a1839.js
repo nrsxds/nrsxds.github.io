@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[566],{2418:e=>{e.exports=JSON.parse('{"label":"hwclock","permalink":"/blog/tags/hwclock","allTagsPath":"/blog/tags","count":1}')}}]);
